@@ -4,7 +4,7 @@
     "command_name": "group3r",
     "original_author": "Group3r",
     "repo_url": "https://github.com/NightlyEscaper/Group3r",
-    "help": "The Token Stealer.",
+    "help": "Find vulnerabilities in AD Group Policy.",
     "entrypoint": "Main",
     "allow_args": true,
     "default_args": "--help",
